@@ -1,0 +1,6 @@
+luigid &
+sh run.sh
+
+# This brings up luigi task visualiser
+
+run flask_app_server
